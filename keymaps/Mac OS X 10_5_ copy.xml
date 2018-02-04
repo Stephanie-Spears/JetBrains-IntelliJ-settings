@@ -2,9 +2,6 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
-  <action id="BinTrayJBSDKAction">
-    <keyboard-shortcut first-keystroke="shift j" />
-  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
