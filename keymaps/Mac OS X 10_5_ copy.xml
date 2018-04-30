@@ -2,24 +2,6 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
-  <action id="Console.TableResult.NavigateAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DSM.OpenInEditor">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Database.OpenDbStorageAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Debugger.EditFrameSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DomCollectionControl.Edit">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -34,32 +16,8 @@
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
-  <action id="ExternalSystem.OpenConfig">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Graph.Faces.OpenSelectedPages">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Jdbc.OpenConsole">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Jdbc.OpenEditor">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="OpenModuleSettings">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="ProfilerJumpToSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
-  </action>
-  <action id="RemoteHostView.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="RunDashboard.EditConfiguration">
-    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
