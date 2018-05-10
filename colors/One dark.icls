@@ -1,7 +1,7 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
@@ -522,6 +522,22 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="98c476" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="1829cc" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
