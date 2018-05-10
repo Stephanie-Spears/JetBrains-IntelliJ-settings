@@ -536,7 +536,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="15ff" />
+        <option name="FOREGROUND" value="cbd0ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -947,7 +947,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="ff58a5" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -979,7 +979,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="9d9df1" />
       </value>
     </option>
     <option name="JS.NUMBER">
