@@ -2,7 +2,4 @@
   <component name="GeneralSettings">
     <option name="defaultProjectDirectory" value="$USER_HOME$/Desktop/Projects/WebstormProjects" />
   </component>
-  <component name="Registry">
-    <entry key="vcs.annotations.preload" value="true" />
-  </component>
 </application>
